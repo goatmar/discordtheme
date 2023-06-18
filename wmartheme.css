@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(255,255,255);
 
   /*
     Main Theme Transparency
@@ -46,7 +46,7 @@
   /*
     Change your friends icon image zoom
   */
-  --home-icon-image-zoom: 100%;
+  --home-icon-image-zoom: 300%;
 
   /*
     Server Listing Width
